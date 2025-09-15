@@ -1,3 +1,4 @@
-# TP1_AySO_Lautaro_Gaunaalumno: <Lautaro>
+TP1_AySO_Lautaro_Gauna
+Alumno: Lautaro Gauna
 Division: 113
 Turno: Mañana

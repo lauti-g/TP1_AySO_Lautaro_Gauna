@@ -1,1 +1,2 @@
 Usuario=vagrant
+model name	: AMD A8-7680 Radeon R7, 10 Compute Cores 4C+6G
